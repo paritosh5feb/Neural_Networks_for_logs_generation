@@ -21,3 +21,6 @@ Columns corresponding to various logs in train.csv
 * DTS - Shear Travel-time, unit in nanosecond per foot,
 ###Prediction results:-
 * Visualization
+* ![plot](predictionResults1.png?raw=true)
+* ![plot](predictionResults2.png?raw=true)
+
