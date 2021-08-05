@@ -18,8 +18,9 @@ Columns corresponding to various logs in train.csv
 * PE - Photo-electric Factor, unit in Barn,
 * ZDEN - Density, unit in Gram per cubit meter,
 * DTC - Compressional Travel-time, unit in nanosecond per foot,
-* DTS - Shear Travel-time, unit in nanosecond per foot,
-###Prediction results:-
+* DTS - Shear Travel-time, unit in nanosecond per foot
+
+### Prediction results:-
 * Visualization
 * ![plot](predictionResults1.PNG?raw=true)
 * ![plot](predictionResults2.PNG?raw=true)
